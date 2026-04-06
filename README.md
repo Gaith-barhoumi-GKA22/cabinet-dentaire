@@ -26,5 +26,11 @@ Permet la gestion des patients et des rendez-vous avec suivi simple.
 - Interface en mode terminal  
 
 ##  Structure du projet
-- `main.c` : fichier principal contenant le programme  
+- `main.c` : fichier principal contenant le programme
 
+- ##  Auteur
+-  Gaith Barhoumi
+-  Mohamed Amine Ounis
+-  Khairallah Khamessi
+-  Arwa Grami
+   
